@@ -12,5 +12,4 @@ echoVerbose ""
 echoVerbose "+====================================================="
 echoVerbose "Sample couchbase application runtime"
 echoVerbose "+====================================================="
-
-exec /bin/sx-couchbase run
+startCouchbaseService
